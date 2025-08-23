@@ -46,7 +46,7 @@ fastapi==0.115.8
     # via llama-stack
 filelock==3.17.0
     # via huggingface-hub
-fire==0.7.0
+fire==0.7.1
     # via llama-stack
 frozenlist==1.5.0
     # via
