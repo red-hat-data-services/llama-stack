@@ -125,7 +125,7 @@ pydantic==2.10.6
     #   openai
 pydantic-core==2.27.2
     # via pydantic
-pygments==2.19.1
+pygments==2.19.2
     # via rich
 python-dateutil==2.9.0.post0
     # via pandas
