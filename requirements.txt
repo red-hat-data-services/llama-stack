@@ -44,7 +44,7 @@ exceptiongroup==1.2.2 ; python_full_version < '3.11'
     # via anyio
 fastapi==0.115.8
     # via llama-stack
-filelock==3.17.0
+filelock==3.20.0
     # via huggingface-hub
 fire==0.7.0
     # via llama-stack
