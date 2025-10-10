@@ -111,7 +111,7 @@ propcache==0.3.0
     # via
     #   aiohttp
     #   yarl
-pyaml==25.1.0
+pyaml==25.7.0
     # via llama-stack-client
 pyasn1==0.4.8
     # via
