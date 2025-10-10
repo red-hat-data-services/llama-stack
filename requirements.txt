@@ -99,7 +99,7 @@ openai==1.71.0
     # via llama-stack
 packaging==24.2
     # via huggingface-hub
-pandas==2.2.3
+pandas==2.3.3
     # via llama-stack-client
 pillow==11.1.0
     # via llama-stack
