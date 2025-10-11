@@ -131,7 +131,7 @@ python-dateutil==2.9.0.post0
     # via pandas
 python-dotenv==1.0.1
     # via llama-stack
-python-jose==3.4.0
+python-jose==3.5.0
     # via llama-stack
 python-multipart==0.0.20
     # via llama-stack
