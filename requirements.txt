@@ -129,7 +129,7 @@ pygments==2.19.1
     # via rich
 python-dateutil==2.9.0.post0
     # via pandas
-python-dotenv==1.0.1
+python-dotenv==1.1.1
     # via llama-stack
 python-jose==3.4.0
     # via llama-stack
