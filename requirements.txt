@@ -162,7 +162,7 @@ rpds-py==0.22.3
     #   referencing
 rsa==4.9
     # via python-jose
-setuptools==80.8.0
+setuptools==80.9.0
     # via llama-stack
 six==1.17.0
     # via
