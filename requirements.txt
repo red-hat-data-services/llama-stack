@@ -189,7 +189,7 @@ tqdm==4.67.1
     #   huggingface-hub
     #   llama-stack-client
     #   openai
-typing-extensions==4.12.2
+typing-extensions==4.15.0
     # via
     #   anyio
     #   fastapi
