@@ -203,7 +203,7 @@ typing-extensions==4.12.2
     #   rich
 tzdata==2025.1
     # via pandas
-urllib3==2.3.0
+urllib3==2.5.0
     # via requests
 wcwidth==0.2.13
     # via prompt-toolkit
