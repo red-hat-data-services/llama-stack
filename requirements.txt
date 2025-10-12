@@ -67,7 +67,7 @@ httpx==0.28.1
     #   openai
 huggingface-hub==0.29.0
     # via llama-stack
-idna==3.10
+idna==3.11
     # via
     #   anyio
     #   httpx
