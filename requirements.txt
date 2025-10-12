@@ -95,7 +95,7 @@ multidict==6.1.0
     #   yarl
 numpy==2.2.3
     # via pandas
-openai==1.71.0
+openai==2.3.0
     # via llama-stack
 packaging==24.2
     # via huggingface-hub
