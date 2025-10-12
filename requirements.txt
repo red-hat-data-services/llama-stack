@@ -79,7 +79,7 @@ jiter==0.8.2
     # via openai
 jsonschema==4.23.0
     # via llama-stack
-jsonschema-specifications==2024.10.1
+jsonschema-specifications==2025.9.1
     # via jsonschema
 llama-stack-client==0.2.10
     # via llama-stack
