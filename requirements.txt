@@ -152,7 +152,7 @@ requests==2.32.4
     #   huggingface-hub
     #   llama-stack
     #   tiktoken
-rich==13.9.4
+rich==14.2.0
     # via
     #   llama-stack
     #   llama-stack-client
