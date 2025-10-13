@@ -141,7 +141,7 @@ pyyaml==6.0.2
     # via
     #   huggingface-hub
     #   pyaml
-referencing==0.36.2
+referencing==0.37.0
     # via
     #   jsonschema
     #   jsonschema-specifications
