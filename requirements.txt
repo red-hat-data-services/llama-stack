@@ -77,7 +77,7 @@ jinja2==3.1.6
     # via llama-stack
 jiter==0.8.2
     # via openai
-jsonschema==4.23.0
+jsonschema==4.26.0
     # via llama-stack
 jsonschema-specifications==2024.10.1
     # via jsonschema
