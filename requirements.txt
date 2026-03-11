@@ -184,7 +184,7 @@ termcolor==2.5.0
     #   llama-stack-client
 tiktoken==0.9.0
     # via llama-stack
-tqdm==4.67.1
+tqdm==4.67.3
     # via
     #   huggingface-hub
     #   llama-stack-client
