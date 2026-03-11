@@ -207,5 +207,5 @@ urllib3==2.3.0
     # via requests
 wcwidth==0.2.13
     # via prompt-toolkit
-yarl==1.18.3
+yarl==1.23.0
     # via aiohttp
