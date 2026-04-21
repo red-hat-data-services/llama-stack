@@ -117,7 +117,7 @@ pyasn1==0.4.8
     # via
     #   python-jose
     #   rsa
-pydantic==2.10.6
+pydantic==2.13.3
     # via
     #   fastapi
     #   llama-stack
