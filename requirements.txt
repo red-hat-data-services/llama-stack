@@ -28,7 +28,7 @@ certifi==2025.1.31
     #   requests
 charset-normalizer==3.4.1
     # via requests
-click==8.1.8
+click==8.3.3
     # via llama-stack-client
 colorama==0.4.6 ; sys_platform == 'win32'
     # via
