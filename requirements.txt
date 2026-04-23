@@ -42,7 +42,7 @@ ecdsa==0.19.1
     # via python-jose
 exceptiongroup==1.2.2 ; python_full_version < '3.11'
     # via anyio
-fastapi==0.115.8
+fastapi==0.136.1
     # via llama-stack
 filelock==3.17.0
     # via huggingface-hub
