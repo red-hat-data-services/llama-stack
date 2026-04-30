@@ -65,7 +65,7 @@ httpx==0.28.1
     #   llama-stack
     #   llama-stack-client
     #   openai
-huggingface-hub==0.29.0
+huggingface-hub==1.13.0
     # via llama-stack
 idna==3.10
     # via
